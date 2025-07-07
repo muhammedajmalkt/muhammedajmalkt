@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF" />
-</p>
-
 #  Hi, I'm Ajmal
 
 I'm a passionate Full-Stack Developer skilled in the MERN stack.
@@ -18,7 +14,7 @@ I'm a passionate Full-Stack Developer skilled in the MERN stack.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,next,nodejs,express,mongodb,tailwind,docker,git,vscode,figma,firebase" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,next,nodejs,express,mongodb,tailwind,docker,git,vscode,figma,firebase" width="600" />
   </a>
 </p>
 
