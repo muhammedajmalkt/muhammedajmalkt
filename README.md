@@ -22,6 +22,8 @@ I'm a passionate Full-Stack Developer skilled in the MERN stack.
 
 ## GitHub Stats
 ![Ajmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammedajmalkt&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedajmalkt&layout=compact&theme=radical)
+
 
 ## Links
 [Portfolio](https://ajmalkt.netlify.app/) • [LinkedIn](https://linkedin.com/in/ajmalkt) • [GitHub](https://github.com/ajmalkt)
