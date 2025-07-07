@@ -30,4 +30,3 @@ I'm a passionate Full-Stack Developer skilled in the MERN stack.
 
 # Links
 [Portfolio](https://ajmalkt.netlify.app/) • [LinkedIn](https://linkedin.com/in/ajmalkt) • [GitHub](https://github.com/ajmalkt)
-how to remove the underline of main head
