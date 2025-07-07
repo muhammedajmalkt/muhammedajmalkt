@@ -1,6 +1,5 @@
-<h1 style="text-decoration: none;" >
-  <strong> Hi, I'm Ajmal</strong>
-</h1>
+##  Hi, I'm Ajmal
+
 
 I'm a passionate Full-Stack Developer skilled in the MERN stack.
 
