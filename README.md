@@ -1,4 +1,4 @@
-<h1 >
+<h1 style="text-decoration: none;" >
   <strong> Hi, I'm Ajmal</strong>
 </h1>
 
