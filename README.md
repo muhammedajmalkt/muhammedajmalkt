@@ -1,6 +1,6 @@
-<h3 >
+<h1 >
   <strong> Hi, I'm Ajmal</strong>
-</h3>
+</h1>
 
 I'm a passionate Full-Stack Developer skilled in the MERN stack.
 
