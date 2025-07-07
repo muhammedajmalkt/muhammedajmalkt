@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Ajmal
+I'm a passionate Full-Stack Developer skilled in the MERN stack.
 
-<!--
-**muhammedajmalkt/muhammedajmalkt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🔭 I’m currently working on a Visitor Management System
+- 🌱 I’m learning DevOps & Microservices
+- 💬 Ask me about React, Node.js, MongoDB, and Express
+- 📫 How to reach me: muhammedajmalkt09@gmail.com
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+React, Node.js, Express, MongoDB, Docker, Git, TailwindCSS, Socket.IO, Redux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Ajmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajmalkt&show_icons=true&theme=radical)
+
+## 🔗 Links
+[Portfolio](https://yourportfolio.com) • [LinkedIn](https://linkedin.com/in/ajmalkt) • [GitHub](https://github.com/ajmalkt)
