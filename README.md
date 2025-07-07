@@ -1,4 +1,4 @@
-#  Hi, I'm Ajmal
+## Hi, I'm Ajmal
 
 I'm a passionate Full-Stack Developer skilled in the MERN stack.
 
