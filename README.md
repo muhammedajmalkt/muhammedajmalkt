@@ -14,7 +14,7 @@ I'm a passionate Full-Stack Developer skilled in the MERN stack.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,next,nodejs,express,mongodb,tailwind,docker,git,vscode,figma,firebase" width="600" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,next,tailwind,,nodejs,express,mongodb,postgresdocker,git,github,vscode,figma,firebase" width="600"/>
   </a>
 </p>
 
