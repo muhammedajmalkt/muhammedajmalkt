@@ -1,4 +1,6 @@
-## Hi, I'm Ajmal
+<p align="center">
+  <strong> Hi, I'm Ajmal</strong>
+</p>
 
 I'm a passionate Full-Stack Developer skilled in the MERN stack.
 
