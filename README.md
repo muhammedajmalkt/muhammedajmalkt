@@ -1,4 +1,5 @@
 #  Hi, I'm Ajmal
+
 I'm a passionate Full-Stack Developer skilled in the MERN stack.
 
 ## About Me
@@ -7,9 +8,11 @@ I'm a passionate Full-Stack Developer skilled in the MERN stack.
 -  Ask me about React, Node.js, MongoDB, and Express
 -  How to reach me: muhammedajmalkt09@gmail.com
 
+
+
 ## Tech Stack
 
-<p align="center">
+<p align="centeer">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,next,nodejs,express,mongodb,tailwind,docker,git,vscode,figma,firebase" />
   </a>
