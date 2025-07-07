@@ -14,7 +14,7 @@ I'm a passionate Full-Stack Developer skilled in the MERN stack.
 
 <p align="center">
   <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,next,tailwind,,nodejs,express,mongodb,postgresdocker,git,github,vscode,figma,firebase" widteh="600"/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,next,tailwind,nodejs,express,mongodb,postgres,docker,git,github,vscode,figma,firebase" width="600"/>
   </a>
 </p>
 
@@ -22,7 +22,6 @@ I'm a passionate Full-Stack Developer skilled in the MERN stack.
 
 ## GitHub Stats
 ![Ajmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammedajmalkt&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedajmalkt&layout=compact&theme=radical)
 
 
 ## Links
