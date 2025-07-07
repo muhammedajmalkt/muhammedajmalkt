@@ -12,9 +12,9 @@ I'm a passionate Full-Stack Developer skilled in the MERN stack.
 
 ## Tech Stack
 
-<p align="centeer">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,next,nodejs,express,mongodb,tailwind,docker,git,vscode,figma,firebase" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,next,nodejs,express,mongodb,tailwind,docker,git,vscode,figma,firebase" />
   </a>
 </p>
 
