@@ -10,15 +10,14 @@ I'm a passionate Full-Stack Developer skilled in the MERN stack.
 ## 🛠️ Tech Stack
 React, Node.js, Express, MongoDB, Docker, Git, TailwindCSS, Socket.IO, Redux
 
-## 👨‍💻 Skills
-- 🧠 Languages: JavaScript, Python, HTML, CSS
-- 🔧 Frontend: React.js, Redux, Tailwind CSS
-- 🚀 Backend: Node.js, Express.js
-- 🗃️ Database: MongoDB, PostgreSQL
-- ☁️ DevOps: Docker, GitHub Actions
+## 🛠️ My Tech Stack
 
-![React](https://img.shields.io/badge/-React-black?logo=react&style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&style=flat-square)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,next,nodejs,express,mongodb,tailwind,docker,kubernetes,git,vscode" />
+  </a>
+</p>
+
 
 
 ## 📈 GitHub Stats
