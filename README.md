@@ -1,8 +1,8 @@
 ##  Hi, I'm Ajmal
 I'm a passionate Full-Stack Developer skilled in the MERN stack.
-<p align="center">
+<div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTg5NGJ1OGlydjI4Z3J0bWJ4eDF6ZnlyY3Nyb3ZuY3QzZ2p2dDZvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/umYMU8G2ixG5mJBDo5/giphy.gif" />
-</p>
+</div>
 
 # About Me
 -  I’m currently working on a Visitor Management System
