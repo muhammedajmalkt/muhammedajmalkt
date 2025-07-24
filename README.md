@@ -2,6 +2,7 @@
 I'm a passionate Full-Stack Developer skilled in the MERN stack.
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHprNGEyNjNkaHJ4ejg1eG51dW5uODh5ZHR1eG16aDFuNXd5MDB0eSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400" alt="This is fine" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTg5NGJ1OGlydjI4Z3J0bWJ4eDF6ZnlyY3Nyb3ZuY3QzZ2p2dDZvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/umYMU8G2ixG5mJBDo5/giphy.gif" />
 </p>
 
 # About Me
