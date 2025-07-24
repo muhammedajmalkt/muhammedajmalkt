@@ -1,7 +1,7 @@
 ##  Hi, I'm Ajmal
 I'm a passionate Full-Stack Developer skilled in the MERN stack.
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVhZHJ4cWczaWczbGh5eTlkcXgyaDM0bXNicXY5eHlsYXEwdGVhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G3vpyZ47YD824yuOB0/giphy.gif"  width="300" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVhZHJ4cWczaWczbGh5eTlkcXgyaDM0bXNicXY5eHlsYXEwdGVhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G3vpyZ47YD824yuOB0/giphy.gif" />
 </div>
 
 # About Me
