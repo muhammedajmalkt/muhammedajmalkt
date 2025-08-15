@@ -22,7 +22,7 @@ I'm a passionate Full-Stack Developer skilled in the MERN stack.
 <p align="center">
   <a href="t" align="center">
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,next,tailwind,nodejs,express,mongodb,postgres"   width="600" />
-      <img src="https://skillicons.dev/icons?i=prisma,docker,rabbitmq,git,github,figma,firebase,postman" width="400" />
+      <img src="https://skillicons.dev/icons?i=prisma,docker,rabbitmq,git,github,figma,firebase,postman,angular" width="400" />
   </a>
 </p>
 
